@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Patxi Andueza Rodrigo
-title: WIP
+title: Ingeniero en Tecnologías de Telecomunicación
 email: PAnduezaRodrigo@gmail.com
 # website: www.github.com/sproogen/resume-theme
 
@@ -45,9 +45,13 @@ linkedin_username: patxi-andueza-rodrigo-b73320229
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+# about_title: Sobre mí
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
+
+  Esto es una plantilla que haré en algún momento, no soy Brett...
+  
+  
   Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
