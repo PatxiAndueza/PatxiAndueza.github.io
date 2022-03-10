@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Patxi Andueza
 title: Aprendiendo algo nuevo cada día
-email: pAnduezaRodrigo@gmail.com
+email: PAnduezaRodrigo@gmail.com
 # website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
@@ -22,10 +22,10 @@ github_username:  PatxiAndueza
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-linkedin_username: PatxiAndueza
+linkedin_username: patxi-andueza-rodrigo-b73320229
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -113,7 +113,7 @@ content:
       ![Trees](/images/landscape-trees.jpg "Trees")
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
