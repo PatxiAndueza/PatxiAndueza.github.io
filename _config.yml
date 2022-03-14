@@ -97,37 +97,32 @@ content:
         title: Universidad Pública de Navarra
         caption: 2016 - 2022
         sub_title: Grado en Ingeniería en Tecnologías de Telecomunicación
-         quote: >
+        quote: >
            El Grado en Ingeniería en Tecnologías de Telecomunicación de la UPNA cuenta con el sello de calidad Eurace, EUR-ACE®. El sello EUR-ACE es una acreditación que busca diferenciar a los mejores centros donde se imparten ingenierías.
         description: | # this will include new lines to allow paragraphs
           
           Durante mi tiempo en la universidad aprendí, muchas de las habilidades que me acompañan en mi carrera profesional, como el trabajo en equipo y trabajar con plazos ajustados de tiempos.
           
-          Al especializarme en la mención de telemática salí con gran abanico de conocimientos de *Networking* y de programación como para poder trabajar de *full stack developer.* 
+          Al especializarme en la mención de telemática salí con un gran abanico de conocimientos de <mark>*Networking*</mark> y de programación <mark>*full stack.*</mark> 
 
-
-          Además, obtuve Matrícula de Honor en la asignatura DSCR, demostrando mi dominio sobre <mark>Java</mark> y <mark>Android Studio.</mark>
+          Además, obtuve Matrícula de Honor en la asignatura *DSCR*, demostrando mi dominio sobre <mark>Java</mark> y <mark>Android Studio.</mark>
+          
       - layout: left
-            title: IES Mendillorri BHI
-            caption: 2014 - 2016
-            sub_title: Bachiller en la modalidad de Ciencias y Tecnología
-           
-           description: | # this will include new lines to allow paragraphs
+          title: IES Mendillorri BHI
+          caption: 2014 - 2016
+          sub_title: Bachiller en la modalidad de Ciencias y Tecnología          
+          description: | # this will include new lines to allow paragraphs
 
-             Durante esta epoca, no solo desarrolle mi gusto por las ciencias y las matematicas (incluso me presente a las Olimpiadas Matemáticas), si no que también aprendí a <mark> hablar y hacer presentaciones en público </mark> (¡desarrollé tanto esta faceta que termine presentando la graduación del curso!)
+           Durante esta época, no solo desarrolle mi gusto por las ciencias y las matematicas (incluso me presente a las Olimpiadas Matemáticas), si no que también aprendí a <mark> hablar y hacer presentaciones en público </mark> (¡desarrollé tanto esta faceta que termine presentando la graduación del curso!)
 
 
-  - title: A Little More About Me
+  - title: Un Poco Más Sobre Mí
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/images/landscape-trees.jpg "Trees")
+      Ademas de mis intereses en *netwoks* e *ingenieria software* algunos de mis intereses son:
+      - Todo lo que tenga una narrativa, series, películas, audiodramas...
+      - La industria del videojuego
+      - Salir a pasear acompañado de un buen podcast
 
 # Footer
 footer_show_references: false
