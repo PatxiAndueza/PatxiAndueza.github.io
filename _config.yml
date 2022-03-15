@@ -110,14 +110,14 @@ content:
         description: | # this will include new lines to allow paragraphs   
           Durante mi tiempo en la universidad aprendí muchas de las habilidades que me acompañan en mi carrera profesional como el **trabajo en equipo** y **trabajar con plazos ajustados** de tiempos.
           Al especializarme en la mención de telemática salí con un gran abanico de conocimientos de <mark>Networking</mark> y de programación <mark>full stack</mark>.   
-          Además obtuve Matrícula de Honor en la asignatura *DSCR*, demostrando mi dominio sobre <mark>Java</mark> y <mark>Android Studio</mark>.
+          Además obtuve Matrícula de Honor en la asignatura *DSCR* demostrando mi dominio sobre <mark>Java</mark> y <mark>Android Studio</mark>.
           
       - layout: left
         title: IES Mendillorri BHI
         caption: 2014 - 2016
         sub_title: Bachiller en la modalidad de Ciencias y Tecnología          
         description: | # this will include new lines to allow paragraphs
-          Durante esta época no solo desarrolle mi gusto por las ciencias y las matematicas (incluso me presente a las Olimpiadas Matemáticas), si no que también aprendí a **hablar y hacer presentaciones en público** (¡desarrollé tanto esta faceta que termine presentando la graduación del curso!).
+          En esta época no solo desarrolle mi gusto por las ciencias y las matematicas (incluso me presente a las Olimpiadas Matemáticas), si no que también aprendí a **hablar y hacer presentaciones en público** (¡desarrollé tanto esta faceta que termine presentando la graduación del curso!).
 
   - title: Un poco más sobre mí
     layout: text
