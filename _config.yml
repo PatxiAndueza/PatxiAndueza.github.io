@@ -48,41 +48,52 @@ linkedin_username: patxi-andueza-rodrigo-b73320229
 # about_title: Sobre mí
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  WIP 
+  WIP.
+  
   I am most skilled in: <mark>WIP</mark> and <mark>WIP.</mark>
 content:
-  - title: Projects # Title for the section
+  - title: Proyectos # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
+        title: MiLuz
+        link: patxiandueza.github.io/projets/miluz
+        # link_text: Más información
         additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+          - title:  Landing page
+            icon: fa-regular fa-globe
+            url: MiLuzApp.es
+          - title:  PlayStore page
+            icon: fa-brands fa-google-play
+            url: play.google.com/store/apps/details?id=pit.miluz
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Aplicación de monitorización del precio de la luz.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          Programada en <mark>Flutter</mark> como proyecto para la universidad, con **metodologías ágiles** de trabajo. **Líder de diseño y relaciones públicas**, además de programador.
+          Con gran repercusión mediática, más de 15 000 descargas y valoraciones muy positivas.
+          
+      - layout: top-middle
+        title: Proyectos de la universidad
+        link: github.com/patxiandueza
+        # link_text: Más información
 
-  - title: Experience # Title for the section
+        description: | # this will include new lines to allow paragraphs
+            Puedes echarle un vistazo a mi GitHub para ver proyectos de **PHP, JS, HTML, Java, etc.**
+          
+  - title: Experiencia # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        title: CYC
+        link: cyc.es
+        # link_text: cyc.es
+        sub_title: Estudiante en prácticas
+        caption: Febrero 2022 - Junio 2022
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          Desplegar un sistema de monitorización con <mark>Zabbix</mark>, a través de SNMP, ODBC y APIs.
+          Aprendí sobre tecnologías de **almacenamiento**, **virtualización** y **networking**.
 
   - title: Estudios # Title for the section
     layout: list # Type of content section (list/text)
@@ -92,10 +103,10 @@ content:
         caption: 2016 - 2022
         sub_title: Grado en Ingeniería en Tecnologías de Telecomunicación
         quote: >
-           El Grado en Ingeniería en Tecnologías de Telecomunicación de la UPNA cuenta con el sello de calidad Eurace, EUR-ACE®. El sello EUR-ACE es una acreditación que busca diferenciar a los mejores centros donde se imparten ingenierías.
+           El Grado en Ingeniería en Tecnologías de Telecomunicación de la UPNA cuenta con el sello de calidad Eurace, EUR-ACE®. El sello EUR-ACE® es una acreditación que busca diferenciar a los mejores centros donde se imparten ingenierías.
         description: | # this will include new lines to allow paragraphs   
-          Durante mi tiempo en la universidad aprendí, muchas de las habilidades que me acompañan en mi carrera profesional, como el trabajo en equipo y trabajar con plazos ajustados de tiempos.
-          Al especializarme en la mención de telemática salí con un gran abanico de conocimientos de <mark>*Networking*</mark> y de programación <mark>*full stack*</mark>.   
+          Durante mi tiempo en la universidad aprendí, muchas de las habilidades que me acompañan en mi carrera profesional, como el **trabajo en equipo** y **trabajar con plazos ajustados** de tiempos.
+          Al especializarme en la mención de telemática salí con un gran abanico de conocimientos de <mark>Networking</mark> y de programación <mark>full stack</mark>.   
           Además, obtuve Matrícula de Honor en la asignatura *DSCR*, demostrando mi dominio sobre <mark>Java</mark> y <mark>Android Studio.</mark>
           
       - layout: left
@@ -103,7 +114,7 @@ content:
         caption: 2014 - 2016
         sub_title: Bachiller en la modalidad de Ciencias y Tecnología          
         description: | # this will include new lines to allow paragraphs
-          Durante esta época, no solo desarrolle mi gusto por las ciencias y las matematicas (incluso me presente a las Olimpiadas Matemáticas), si no que también aprendí a <mark> hablar y hacer presentaciones en público </mark> (¡desarrollé tanto esta faceta que termine presentando la graduación del curso!).
+          Durante esta época, no solo desarrolle mi gusto por las ciencias y las matematicas (incluso me presente a las Olimpiadas Matemáticas), si no que también aprendí a **hablar y hacer presentaciones en público** (¡desarrollé tanto esta faceta que termine presentando la graduación del curso!).
 
   - title: Un Poco Más Sobre Mí
     layout: text
