@@ -45,7 +45,7 @@ linkedin_username: patxi-andueza-rodrigo-b73320229
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: Sobre mí
+about_title: Sobre mí
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   ¡Hola! Soy Patxi, ingeniero en Tecnologías de Telecomunicación.
@@ -119,7 +119,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Durante esta época no solo desarrolle mi gusto por las ciencias y las matematicas (incluso me presente a las Olimpiadas Matemáticas), si no que también aprendí a **hablar y hacer presentaciones en público** (¡desarrollé tanto esta faceta que termine presentando la graduación del curso!).
 
-  - title: Un Poco Más Sobre Mí
+  - title: Un poco más sobre mí
     layout: text
     content: | # this will include new lines to allow paragraphs
       Ademas de mis intereses en *netwoks* e *ingenieria software* algunos de mis intereses son:
