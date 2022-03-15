@@ -61,10 +61,10 @@ content:
         # link_text: Más información
         additional_links:
           - title:  Landing page
-            icon: fa-regular fa-globe
+            icon: fas fa-globe
             url: MiLuzApp.es
-          - title:  PlayStore page
-            icon: fa-brands fa-google-play
+          - title: PlayStore page
+            icon: fa-solid fa-store
             url: play.google.com/store/apps/details?id=pit.miluz
         quote: >
           Aplicación de monitorización del precio de la luz.
