@@ -50,9 +50,9 @@ about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   ¡Hola! Soy Patxi, ingeniero en Tecnologías de Telecomunicación.
   
-  Viendo mis proyectos y trabajos parace que me encanta la monitorización y la verdad es que sí. Pero también me gusta el networking (un buen ejercios de mascaras de red entra como un sudoku) y arruinar mi horario de sueño quedandome hasta las tantas programando...
+  Viendo mis proyectos y trabajos parace que me encanta la monitorización y la verdad es que sí. También me gusta el networking (un buen ejercio de mascaras de red entra como un sudoku) y arruinar mi horario de sueño quedandome hasta las tantas programando...
   
-  Adelante, echale un vistazo a mis proyectos y experiencia.
+  Adelante, échale un vistazo a mis proyectos y experiencia.
 content:
   - title: Proyectos # Title for the section
     layout: list # Type of content section (list/text)
@@ -73,7 +73,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Programada en <mark>Flutter</mark> como proyecto para la universidad, con **metodologías ágiles** de trabajo. **Líder de diseño y relaciones públicas**, además de programador.
           
-          Con gran repercusión mediática, más de 15 000 descargas y valoraciones muy positivas. [Más información](https://patxiandueza.github.io/projects/miluz)
+          Con gran repercusión mediática, más de 15 000 descargas y valoraciones muy positivas. [Más información.](https://patxiandueza.github.io/projects/miluz)
           
       - layout: top-middle
         title: Proyectos de la universidad
@@ -108,16 +108,16 @@ content:
         quote: >
            El Grado en Ingeniería en Tecnologías de Telecomunicación de la UPNA cuenta con el sello de calidad Eurace, EUR-ACE®. El sello EUR-ACE® es una acreditación que busca diferenciar a los mejores centros donde se imparten ingenierías.
         description: | # this will include new lines to allow paragraphs   
-          Durante mi tiempo en la universidad aprendí, muchas de las habilidades que me acompañan en mi carrera profesional, como el **trabajo en equipo** y **trabajar con plazos ajustados** de tiempos.
+          Durante mi tiempo en la universidad aprendí muchas de las habilidades que me acompañan en mi carrera profesional como el **trabajo en equipo** y **trabajar con plazos ajustados** de tiempos.
           Al especializarme en la mención de telemática salí con un gran abanico de conocimientos de <mark>Networking</mark> y de programación <mark>full stack</mark>.   
-          Además, obtuve Matrícula de Honor en la asignatura *DSCR*, demostrando mi dominio sobre <mark>Java</mark> y <mark>Android Studio.</mark>
+          Además obtuve Matrícula de Honor en la asignatura *DSCR*, demostrando mi dominio sobre <mark>Java</mark> y <mark>Android Studio</mark>.
           
       - layout: left
         title: IES Mendillorri BHI
         caption: 2014 - 2016
         sub_title: Bachiller en la modalidad de Ciencias y Tecnología          
         description: | # this will include new lines to allow paragraphs
-          Durante esta época, no solo desarrolle mi gusto por las ciencias y las matematicas (incluso me presente a las Olimpiadas Matemáticas), si no que también aprendí a **hablar y hacer presentaciones en público** (¡desarrollé tanto esta faceta que termine presentando la graduación del curso!).
+          Durante esta época no solo desarrolle mi gusto por las ciencias y las matematicas (incluso me presente a las Olimpiadas Matemáticas), si no que también aprendí a **hablar y hacer presentaciones en público** (¡desarrollé tanto esta faceta que termine presentando la graduación del curso!).
 
   - title: Un Poco Más Sobre Mí
     layout: text
@@ -125,7 +125,7 @@ content:
       Ademas de mis intereses en *netwoks* e *ingenieria software* algunos de mis intereses son:
       - Los emojis
       - Leer manuales de cosas
-      - Todo lo que tenga una narrativa, series, películas, audiodramas...
+      - Todo lo que contenga una narrativa: series, películas, audiodramas...
       - La industria del videojuego
       - Salir a pasear acompañado de un buen podcast
 
