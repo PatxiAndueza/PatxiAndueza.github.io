@@ -48,29 +48,32 @@ linkedin_username: patxi-andueza-rodrigo-b73320229
 # about_title: Sobre mí
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  WIP.
+  ¡Hola! Soy Patxi, ingeniero en Tecnologías de Telecomunicación.
   
-  I am most skilled in: <mark>WIP</mark> and <mark>WIP.</mark>
+  Viendo mis proyectos y trabajos parace que me encanta la monitorización y la verdad es que sí. Pero también me gusta el networking (un buen ejercios de mascaras de red entra como un sudoku) y arruinar mi horario de sueño quedandome hasta las tantas programando...
+  
+  Adelante, echale un vistazo a mis proyectos y experiencia.
 content:
   - title: Proyectos # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
         title: MiLuz
-        link: patxiandueza.github.io/projets/miluz
-        # link_text: Más información
+        link: https://patxiandueza.github.io/projects/miluz
+        link_text: Más información
         additional_links:
           - title:  Landing page
             icon: fas fa-globe
             url: MiLuzApp.es
           - title: PlayStore page
-            icon: fa-solid fa-store
+            icon: fas fa-globe
             url: play.google.com/store/apps/details?id=pit.miluz
         quote: >
           Aplicación de monitorización del precio de la luz.
         description: | # this will include new lines to allow paragraphs
           Programada en <mark>Flutter</mark> como proyecto para la universidad, con **metodologías ágiles** de trabajo. **Líder de diseño y relaciones públicas**, además de programador.
-          Con gran repercusión mediática, más de 15 000 descargas y valoraciones muy positivas.
+          
+          Con gran repercusión mediática, más de 15 000 descargas y valoraciones muy positivas. [Más información](https://patxiandueza.github.io/projects/miluz)
           
       - layout: top-middle
         title: Proyectos de la universidad
@@ -78,7 +81,7 @@ content:
         # link_text: Más información
 
         description: | # this will include new lines to allow paragraphs
-            Puedes echarle un vistazo a mi GitHub para ver proyectos de **PHP, JS, HTML, Java, etc.**
+            Puedes echarle un vistazo a mi GitHub para ver proyectos de **PHP, JS, HTML, Java, Python, etc.**
           
   - title: Experiencia # Title for the section
     layout: list # Type of content section (list/text)
@@ -92,7 +95,7 @@ content:
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          Desplegar un sistema de monitorización con <mark>Zabbix</mark>, a través de SNMP, ODBC y APIs.
+          Desplegar un sistema de monitorización con <mark>Zabbix</mark> a través de SNMP, ODBC y APIs.
           Aprendí sobre tecnologías de **almacenamiento**, **virtualización** y **networking**.
 
   - title: Estudios # Title for the section
@@ -120,6 +123,8 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Ademas de mis intereses en *netwoks* e *ingenieria software* algunos de mis intereses son:
+      - Los emojis
+      - Leer manuales de cosas
       - Todo lo que tenga una narrativa, series, películas, audiodramas...
       - La industria del videojuego
       - Salir a pasear acompañado de un buen podcast
