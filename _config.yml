@@ -48,10 +48,10 @@ linkedin_username: patxi-andueza-rodrigo-b73320229
 # about_title: Sobre mí
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-
   WIP
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  #I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+
 
 content:
   - title: Projects # Title for the section
