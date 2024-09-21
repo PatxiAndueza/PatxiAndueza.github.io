@@ -1,10 +1,10 @@
 ---
-title: Tweakery tweakeroo
+title: Personalizando un Jekyll theme
+ex-title: Tweakery tweakeroo
 category: personal-web
-tags: personal-web jekyll TeXt
+tags: personal-web Jekyll TeXt
 aside:
   toc: true
-
 ---
 He tenido que hacer algunos *tweaks* al proyecto base de [TeXt Theme](https://kitian616.github.io/jekyll-TeXt-theme/) para acomodarlo a mis necesidades. En este post voy a explicarlos, para que el Patxi del futuro, cuando quiera hacer algún cambio, tenga anotados estos pequeños ajustes.
 
