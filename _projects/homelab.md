@@ -17,8 +17,5 @@ article_header:
 cover: ..\assets\projects\homelab\cover.png
 ---
 
-🚧 Estoy trabajando en la redacción de este proyecto. 🚧
+🚧 Estoy trabajando en la redacción. 🚧
 
----
-
-Avances del proyecto diposibles en el [blog](../archive?tag=homelab).
