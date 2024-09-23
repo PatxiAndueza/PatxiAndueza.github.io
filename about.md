@@ -56,5 +56,10 @@ key: page-about
 
 <br>
 
+<!-- Administración de Active Directory Domain Services -->
+[<img src="https://learn.microsoft.com/en-us/media/profile/zero-state-applied-skills.svg?branch=main" alt="Administración de Active Directory Domain Services" width="50"/> Administración de Active Directory Domain Services](https://learn.microsoft.com/api/credentials/share/es-es/PatxiAnduezaRodrigo-9836/FCF31353999CDC7E?sharingId=9ADF64842DEF0B0F)
+
+<br>
+
 <!-- Microsoft Security Immersion Completion Badge -->
 [<img src="https://images.credly.com/size/340x340/images/693308cf-f47f-41c0-8e71-0f28e4bc6a52/image.png" alt="Microsoft Security Immersion Completion Badge" width="50"/> Microsoft Security Immersion Completion Badge](https://www.credly.com/badges/5b5b4d52-c859-409c-be33-1c67a989a8ec)
