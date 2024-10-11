@@ -19,3 +19,4 @@ cover: ..\assets\projects\homelab\cover.png
 
 🚧 Estoy trabajando en la redacción. 🚧
 
+Avances en el [blog](../archive?tag=homelab).
