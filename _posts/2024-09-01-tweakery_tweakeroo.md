@@ -135,6 +135,19 @@ Y añado esta página en *navigation.yml* (con integración de idioma):
     url: /projects
 ```
 
+### *Cover*s clickeables
+<small>📝Añadido el 11/10/2024</small>
+
+Para que las imágenes de portada de Proyectos sean clicables, he envuelto el *\<div>* que contiene la imagen con un *\<a>* en el archivo *_includes/article-list.html*:
+
+```html
+            <a href="{\{ \_\article_url }\}">
+              <div class="card__image">
+                <img src="{\{ _article_cover }\}" />
+              </div>
+            </a>
+```
+
 ### *Layout* para proyectos
 
 Quiero que los proyectos se sientan como vistas web independientes, como un todo. Por eso, a diferencia de los posts, no me gusta tener el "article-section-navigator" que permite saltar de uno a otro. Para evitar esto y seguir usando los "articles" del tema, he duplicado el layout *_layout/article.html* y lo he modificado como *_layout/project.html*:
