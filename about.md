@@ -44,20 +44,23 @@ key: page-about
 
 
 <!-- Microsoft 365 Certified: Messaging Administrator Associate -->
-[<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="Messaging Administrator Associate" width="50"/> Microsoft 365 Certified: Messaging Administrator Associate](https://learn.microsoft.com/api/credentials/share/es-es/PatxiAnduezaRodrigo-9836/5AE1D4407EE319F2?sharingId=9ADF64842DEF0B0F)
+[<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="Messaging Administrator Associate" width="50"/> Microsoft 365 Certified: Messaging Administrator Associate](https://learn.microsoft.com/es-es/users/patxianduezarodrigo-9836/credentials/5ae1d4407ee319f2)
 
 <br>
 
 <!-- Microsoft Certified: Security, Compliance, and Identity Fundamentals -->
-[<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="Security, Compliance, and Identity Fundamentals" width="50"/> Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/api/credentials/share/es-es/PatxiAnduezaRodrigo-9836/A3D9C0C6018C1778?sharingId=9ADF64842DEF0B0F)
+[<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="Security, Compliance, and Identity Fundamentals" width="50"/> Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/es-es/users/patxianduezarodrigo-9836/credentials/a3d9c0c6018c1778)
 
 <!-- Microsoft 365 Certified: Fundamentals -->
-[<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="Fundamentals" width="50"/> Microsoft 365 Certified: Fundamentals](https://learn.microsoft.com/api/credentials/share/es-es/PatxiAnduezaRodrigo-9836/D6A015181F182EA3?sharingId=9ADF64842DEF0B0F)
+[<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="Fundamentals" width="50"/> Microsoft 365 Certified: Fundamentals](https://learn.microsoft.com/es-es/users/patxianduezarodrigo-9836/credentials/d6a015181f182ea3)
 
 <br>
 
+<!-- Crear y administrar procesos automatizados mediante Power Automates -->
+[<img src="https://learn.microsoft.com/en-us/media/profile/zero-state-applied-skills.svg?branch=main" alt="Crear y administrar procesos automatizados mediante Power Automate" width="50"/> Crear y administrar procesos automatizados mediante Power Automate](https://learn.microsoft.com/es-es/users/patxianduezarodrigo-9836/credentials/1d2090e5d28250ca)
+
 <!-- Administración de Active Directory Domain Services -->
-[<img src="https://learn.microsoft.com/en-us/media/profile/zero-state-applied-skills.svg?branch=main" alt="Administración de Active Directory Domain Services" width="50"/> Administración de Active Directory Domain Services](https://learn.microsoft.com/api/credentials/share/es-es/PatxiAnduezaRodrigo-9836/FCF31353999CDC7E?sharingId=9ADF64842DEF0B0F)
+[<img src="https://learn.microsoft.com/en-us/media/profile/zero-state-applied-skills.svg?branch=main" alt="Administración de Active Directory Domain Services" width="50"/> Administración de Active Directory Domain Services](https://learn.microsoft.com/es-es/users/patxianduezarodrigo-9836/credentials/fcf31353999cdc7e)
 
 <br>
 
