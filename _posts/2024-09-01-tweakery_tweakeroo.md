@@ -88,7 +88,7 @@ lang: es-ES # the language of your site, default as "en"
 
 ### Elementos que dejo en en-US
 
-Algunos elementos se quedan en inglés porque requiere más tiempo del que estoy dispuesto a invertir para modificarlo. Los meses en las fechas de publicación de los posts aparecen en inglés. En el apartado de Archivo, la opción "Show All" se mantiene esin tradución. Por ello, he decidido dejar las etiquetas de los posts en inglés para mantener la coherencia con este botón y porque aporta *flow*.
+Algunos elementos se quedan en inglés porque requiere más tiempo del que estoy dispuesto a invertir para modificarlo. Los meses en las fechas de publicación de los posts aparecen en inglés. En el apartado de Archivo, la opción "Show All" se mantiene sin tradución. Por ello, he decidido dejar las etiquetas de los posts en inglés para mantener la coherencia con este botón y porque aporta *flow*.
 
 ## Proyectos
 
