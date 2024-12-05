@@ -57,7 +57,7 @@ key: page-about
 <br>
 
 <!-- Microsoft Applied Skills: Preparación de la seguridad y el cumplimiento para admitir Microsoft 365 Copilot -->
-[<img src="https://learn.microsoft.com/en-us/media/profile/zero-state-applied-skills.svg?branch=main" alt="Microsoft Applied Skills: Preparación de la seguridad y el cumplimiento para admitir Microsoft 365 Copilot" width="50"/> Microsoft Applied Skills: Preparación de la seguridad y el cumplimiento para admitir Microsoft 365 Copilot](https://learn.microsoft.com/es-es/users/patxianduezarodrigo-9836/credentials/1d2090e5d28250ca)
+[<img src="https://learn.microsoft.com/en-us/media/profile/zero-state-applied-skills.svg?branch=main" alt="Microsoft Applied Skills: Preparación de la seguridad y el cumplimiento para admitir Microsoft 365 Copilot" width="50"/> Microsoft Applied Skills: Preparación de la seguridad y el cumplimiento para admitir Microsoft 365 Copilot](https://learn.microsoft.com/es-es/users/patxianduezarodrigo-9836/credentials/4d94f4c95d4298cd)
 
 <!-- Microsoft Applied Skills: Crear y administrar procesos automatizados mediante Power Automates -->
 [<img src="https://learn.microsoft.com/en-us/media/profile/zero-state-applied-skills.svg?branch=main" alt="Crear y administrar procesos automatizados mediante Power Automate" width="50"/> Microsoft Applied Skills: Crear y administrar procesos automatizados mediante Power Automate](https://learn.microsoft.com/es-es/users/patxianduezarodrigo-9836/credentials/1d2090e5d28250ca)
