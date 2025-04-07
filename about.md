@@ -51,6 +51,9 @@ key: page-about
 <!-- Microsoft Certified: Security, Compliance, and Identity Fundamentals -->
 [<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="Security, Compliance, and Identity Fundamentals" width="50"/> Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/es-es/users/patxianduezarodrigo-9836/credentials/a3d9c0c6018c1778)
 
+<!-- Microsoft Certified: Azure Fundamentals -->
+[<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="Fundamentals" width="50"/> Microsoft Certified: Azure Fundamentalss](https://learn.microsoft.com/es-es/users/patxianduezarodrigo-9836/credentials/30ce77bf223a22fd)
+
 <!-- Microsoft 365 Certified: Fundamentals -->
 [<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="Fundamentals" width="50"/> Microsoft 365 Certified: Fundamentals](https://learn.microsoft.com/es-es/users/patxianduezarodrigo-9836/credentials/d6a015181f182ea3)
 
