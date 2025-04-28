@@ -228,7 +228,7 @@ plugins:
 ## => Colección custom
 ##############################
 collections:
- projects:
+  projects:
     output: true
   postits:
     output: true
