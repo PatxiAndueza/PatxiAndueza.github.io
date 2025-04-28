@@ -3,9 +3,6 @@ layout: articles
 title: Post-its
 articles:
   data_source: site.postits
-  show_excerpt: true
-  type: grid
+  type: brief
 permalink: /postits/
 ---
-
-Post-its
