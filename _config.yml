@@ -230,3 +230,5 @@ plugins:
 collections:
  projects:
     output: true
+  postits:
+    output: true
