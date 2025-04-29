@@ -1,0 +1,34 @@
+---
+layout: article
+title: 2025
+
+show_date: false
+date: 2025-01-01
+---
+
+### Enero
+🌐 Mozo Yefímovich - Jordi Wild y el problema del estado de la conversación pública [2024]\
+📺 Succession - Season 2 & 3 [2019-2021]\
+🎞️ Cónclave [2024]\
+🎮 For The King: Civilización perdida [2021]\
+🎧 Desulum: Diez Mandamientos - Arco 4 [2022]\
+🎮 Firewatch [2016]
+
+### Febrero
+🎮 SteamWorld Dig 2 [2017]\
+🎮 DREDGE [2023]\
+🎮 Left 4 Dead 2: Punto muerto [2009]
+
+### Marzo
+🎮 Manifold Garden [2020]\
+✈️ Praga 
+
+### Abril
+🎧 Desulum: Diez Mandamientos - Arco 5, Acto 1 [2022]\
+🎮 Left 4 Dead 2: Defunción [2009]\
+🎮 Left 4 Dead 2: Feria siniestra [2009]\
+🎞️ Una película de Minecraft [2025]\
+🎮 Immortals Fenyx Rising [2022]\
+🎮 Left 4 Dead 2: Pantanos [2009]\
+🎮 Left 4 Dead 2: El diluvio [2009]\
+🎧 Desulum: El Corazón de la Piedra - Arco 2 [2022]
