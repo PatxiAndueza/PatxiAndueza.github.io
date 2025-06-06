@@ -71,7 +71,7 @@ Y, por último, después de dejar todo **como los chorros del oro**, hice lo má
 
 La web está *ready*. Ahora tengo un sitio donde documentar cualquier nuevo proyecto: escribirlo, explicarlo y, cuando toque, volver a él sin romperme la cabeza.
 
-### ¿Está cerrado el proyecto?
+#### ¿Está cerrado el proyecto?
 
 Si defino el alcance como montar la web, dejarla bonita, funcional y preparada para crecer: **proyecto cerrado con éxito**.
 
@@ -80,16 +80,16 @@ Pero si extiendo el alcance a mantener un archivo documental vivo, que crezca co
 Hasta que me canse.
 O me muera. Yo qué sé. 😅
 
-### Lo bonito cuesta (pero queda bonito)
+#### Lo bonito cuesta (pero queda bonito)
 
 Dejar todo esto fino ha sido bastante curro: elegir un *theme*, entender cómo modificarlo, pelearme con los *layouts*, aprender a usar colecciones en Jekyll…
 Pero el resultado final, funcionando y con una estética coherente, ha merecido la pena. Y además, ahora da hasta gustillo escribir aquí.
 
-### Gracias, Patxi del pasado
+#### Gracias, Patxi del pasado
 
 Esta conclusión la estoy escribiendo **nueve meses después** de haber dejado la web lista. Y lo curioso es que… me ha servido.
 Volver, repasar la documentación, entender lo que hice… ha estado fácil.
-Así que el Patxi del futuro —yo, ahora mismo— le doy las gracias al Patxi del pasado. Máquina
+Así que el Patxi del futuro —yo, ahora mismo— le doy las gracias al Patxi del pasado. Máquina.
 
 ***Conclusión: Fino señores 👍***
 
