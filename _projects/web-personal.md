@@ -38,11 +38,41 @@ La motivación inicial para la antigua landing page era tener un portafolio y mo
 
 + **Observadores**: Y ya que estamos, esto también sirve como currículum. A quien quiera que esté *stalkeándome* LinkedIn podría interesarle ver que, después de trabajar todo el día con tecnología, sigo dedicando una parte de mi tiempo libre a hobbies relacionados con ella. 😉
 
----
 
-🚧 Estoy trabajando en la redacción. 🚧
 
-Avances en el [blog](../archive?tag=personal-web).
+## Desarrollo del Proyecto
+
+Así pues, motivado por el nuevo proyecto y con ganas de darle un *lavado de cara* a la web (y con la intención de seguir usando **Git**, **GitHub Pages** y **Jekyll**), empecé —igual que la última vez— a buscar *themes* como un loco: un poco de ayuda de *ChatGPT* para filtrar ideas, repositorios de GitHub absurdamente ocultos bajo *tags* rarísimos, página tras página…
+
+Al final, después de pelearme conmigo mismo para elegir uno, decidí seguir adelante con [**TeXt theme**](https://github.com/kitian616/jekyll-TeXt-theme) de *kitian616*.
+
+> Estética limpia, personalizable, con muchas opciones para los artículos, maquetaciones de índices, secciones… y todo bien documentado.
+
+Así que, después de pasar tiempo buscando un *theme*, hice lo que cualquier persona cuerda haría: pasar aún más tiempo **leyendo la documentación** del *theme* y *hacerme uno con él*.
+
+Después de revisar las opciones que ofrecía y las características que quería que tuviese mi web, empezó **mi gran batalla**: varios días personalizando el *theme*.
+
+La odisea está desarrollada en la [entrada del blog](/personal-web/2024/09/01/tweakery_tweakeroo.html) *"Personalizando un Jekyll theme"*, donde le explico (al Patxi del futuro) cómo implementé soporte para un idioma nuevo (`es-ES`), cómo creé y mostré una nueva colección, cómo personalicé las listas/índices... y alguna cosilla más.
+
+Gracias a estas colecciones tengo dos secciones principales:
++ **Blog**: Donde suelto todo lo técnico. Escribo lo que aprendo, lo que configuro, y lo que quiero recordar. Si algo me costó, va aquí.
++ **Proyectos**: Aquí dejo mis proyectos bien presentados, con contexto, capturas y explicaciones. Básicamente, la parte bonita del portfolio.
+
+![Secciones de la web](/assets/projects/web-personal/sections.png)
+
+Además, integré **Iconify** porque quería iconitos. También explico cómo lo hice en esa misma [entrada del blog](/personal-web/2024/09/17/iconify.html).
+
+Y, por último, después de dejar todo **como los chorros del oro**, hice lo más y lo menos divertido de todo:  
+– **Lo más**: escribir mis aventuras desarrollando los proyectos, mientras exploraba todas las posibilidades que me ofrece *Markdown*.  
+– **Lo menos**: documentar todo **al dedillo**.
+
+
+<!--
+
+connclusiones
+
+y algo más estoy escribiendo esto x meses despues de haber documentado y menos mal que deje todo bien bonico para volver a el
+-->
 
 ---
 
