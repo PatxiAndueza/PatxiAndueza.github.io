@@ -7,6 +7,7 @@ aside:
   toc: true
 
 published: false
+permalink: /wip
 ---
 <script src="https://code.iconify.design/iconify-icon/2.1.0/iconify-icon.min.js"></script>
 
@@ -79,3 +80,5 @@ ddclient y a correr
  un poco de port forwardinf
 
 tambien he configurado politca de backup schedule y retencion
+
+no necesito un honeypot para ver que tengo intentos de conexion desde francia, alemania y NL, internet i guess?
