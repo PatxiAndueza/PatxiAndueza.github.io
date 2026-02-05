@@ -2,6 +2,8 @@
 title: Dominio personalizado en GitHub Pages
 category: personal-web
 tags: [personal-web, GitHub Pages]
+aside:
+  toc: false
 ---
 
 <script src="https://code.iconify.design/iconify-icon/2.1.0/iconify-icon.min.js"></script>
@@ -47,7 +49,7 @@ En paralelo al paso anterior.
 Crear una entrada CNAME desde el subdominio al dominio original.
 
 
-## Paso 4: Esperar
+### Paso 4: Esperar
 
 5 minutillos para validación de GitHub y propagación.
 
