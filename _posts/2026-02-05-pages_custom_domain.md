@@ -9,7 +9,7 @@ aside:
 
 <script src="https://code.iconify.design/iconify-icon/2.1.0/iconify-icon.min.js"></script>
 
-Tenía la web funcionando en <iconify-icon icon="simple-icons:github"></iconify-icon> GitHub Pages con el dominio por defecto (PatxiAndueza.github.io) y, queriendo avivar la web de vuelta para documentar algún proyecto nuevo, recordé que desde hace tiempo tengo el dominio **andueza.cloud**.
+Tenía la web funcionando en <iconify-icon icon="simple-icons:github"></iconify-icon> GitHub Pages con el dominio por defecto PatxiAndueza.github.io y, queriendo avivar la web de vuelta para documentar algún proyecto nuevo, he recordado que desde hace tiempo tengo el dominio **andueza.cloud** y que puedo usarlo.
 
 <!--more-->
 
