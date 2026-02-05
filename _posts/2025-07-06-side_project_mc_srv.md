@@ -3,10 +3,9 @@ title: Side proyect: Servidor de Minecraft
 ex-title: personal proyect
 category: homelab
 tags: [homelab, networking]
+hidden: true
 aside:
   toc: true
-
-hidden: true
 ---
 <script src="https://code.iconify.design/iconify-icon/2.1.0/iconify-icon.min.js"></script>
 
