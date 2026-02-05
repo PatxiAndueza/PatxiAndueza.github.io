@@ -1,5 +1,5 @@
 ---
-title: Side proyect: Servidor de Minecraft
+title: Side proyect, Servidor de Minecraft
 ex-title: personal proyect
 category: homelab
 tags: [homelab, networking]
