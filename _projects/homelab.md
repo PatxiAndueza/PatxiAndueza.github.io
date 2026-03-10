@@ -33,7 +33,35 @@ Mi PC de jugar es un bazzite, me instalo de Popsicle de Systemn76 (los de Pop_OS
 Descargo ISO. Flaseo la  ISO en el usb. 
 Proxmox VE 9.1 ISO Installer
 
+06/02/2026
+Insalación por defecto, pongo idioma y pass.
+Estoy dentro por web, ya puedo desmontar el lio de cables.
+y https://community-scripts.github.io/ProxmoxVE/scripts?id=post-pve-install
+
+>>>>>>>Gestor DNS
+techium, bloquo anuncion con dos listas recomendadas
+añado andueza.cloud como Forwarder
+
+>>>>>>>Reverse proxy
+siguiente paso, NPM o NMPplus, gana NPM plus porque tiene escripts y anque es menos estable tiene más opciones
+instalar
+preparar certificado
+https://developers.cloudflare.com/fundamentals/api/get-started/create-token/
+
+para tecchium añadir cabecera
 
 
+
+
+07/02/2026
+>>>>>>DDNS
+configuro un nombre no fuzzeable sin proxy de cloudflare y home  a traves del proxy.
+Ahora voy a instalarme clooudflare ddns pongo el api que que le puse al otro y a correr
+
+
+>>>>>>>VPN wireward + wiredashboard
+instalo con scripts graficamente
+
+>>> Me caliento y me pongo server de TS
 
 -->
