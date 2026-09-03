@@ -49,8 +49,11 @@ key: page-about
 
 *Fundamentals*
 
+<!-- Microsoft 365 Certified: Copilot and Agent Administration Fundamentals -->
+[<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="Fundamentals" width="50"/> Microsoft 365 Certified: Copilot and Agent Administration Fundamentals](https://www.credly.com/badges/84bd0464-1e95-4b15-b3f2-b00fddccaacd)
+
 <!-- Microsoft Certified: Security, Compliance, and Identity Fundamentals -->
-[<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="Security, Compliance, and Identity Fundamentals" width="50"/> Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/es-es/users/patxianduezarodrigo-9836/credentials/a3d9c0c6018c1778)
+[<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="Fundamentals" width="50"/> Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/es-es/users/patxianduezarodrigo-9836/credentials/a3d9c0c6018c1778)
 
 <!-- Microsoft Certified: Azure Fundamentals -->
 [<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="Fundamentals" width="50"/> Microsoft Certified: Azure Fundamentalss](https://learn.microsoft.com/es-es/users/patxianduezarodrigo-9836/credentials/30ce77bf223a22fd)
